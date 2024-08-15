@@ -62,7 +62,8 @@ if __name__ == "__main__":
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/39d268b3-8d99-4032-9966-6e64b4952e19)
+![Screenshot 2024-08-15 181347](https://github.com/user-attachments/assets/fdc86c4b-f600-4dc1-8975-490cb318abbd)
+
 
 
 
