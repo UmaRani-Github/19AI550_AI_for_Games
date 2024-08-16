@@ -41,27 +41,10 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-
 ```
-
-
-
-
-
-
-
-
-
-
 
 ### Output:
 ![Screenshot 2024-08-15 181347](https://github.com/user-attachments/assets/fdc86c4b-f600-4dc1-8975-490cb318abbd)
-
-
-
-
-
 ### Result:
 Thus the simple HotPotato game was implemented using Queue.
 
