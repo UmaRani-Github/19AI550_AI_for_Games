@@ -11,12 +11,6 @@ To write a python program to simulate the process of passing an item among playe
 5. Repeat: Continue the process until only one person remains in the queue.
 ### Program:
 ```
-Name: D.Amarnath Reddy
-Reg No: 212221240012
-
-
-```
-```
 import queue
 import random
 import time
