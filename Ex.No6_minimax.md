@@ -1,7 +1,7 @@
 # Ex.No: 6  Implementation of Minimax Search
 ### DATE:                                                                            
-### REGISTER NUMBER : 212221240013
-### NAME : G Venkata Pavan Kumar
+### REGISTER NUMBER : 212221240035
+### NAME : Palamakula Deepika
 ### AIM: 
 Write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
 ### Algorithm:
