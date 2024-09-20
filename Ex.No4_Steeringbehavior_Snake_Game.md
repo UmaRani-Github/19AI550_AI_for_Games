@@ -1,7 +1,7 @@
 # Ex.No: 4  Implementation of Snake game using Steering behaviors
 ### DATE:                                                                            
-### REGISTER NUMBER : 212221240008 
-### NAME : Balireddy Mahalakshmi
+### REGISTER NUMBER : 212221240013
+### NAME : G Venkata Pavan Kumar
 ### AIM: 
 To write a python program to simulate the snake game using steering behaviors
 ### Algorithm:
