@@ -1,7 +1,7 @@
 # Ex.No: 5  Implementation of Jumping behavior 
 ### DATE:                                                                            
-### REGISTER NUMBER : 212221240013
-### Name : G Venkata Pavan Kumar
+### REGISTER NUMBER : 212221240035
+### Name : Palamakula Deepika
 
 ### AIM: 
 To write a python program to simulate Jumbing behavior. 
