@@ -1,7 +1,7 @@
 # Ex.No: 7   Implementation of Alpha Beta Pruning 
 ### DATE:                                                                            
-### REGISTER NUMBER : 212221240013
-### NAME : G Venkata Pavan KUmar
+### REGISTER NUMBER : 212221240035
+### NAME : Palamakula Deepika
 ### AIM: 
 Write a Alpha beta pruning algorithm to find the optimal value of MAX Player from the given graph.
 ### Steps:
