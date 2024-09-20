@@ -1,7 +1,7 @@
 # Ex.No: 3  Implementation of Kinematic movement seek and flee behaviors 
 ### DATE:                                                                            
-### REGISTER NUMBER : 212221240013
-### Name : G Venkata Pavan Kumar
+### REGISTER NUMBER : 212221240035
+### Name : Palamakula Deepika
 ### AIM: 
 To write a python program to simulate the process of seek and flee behaviors using mouse movements.
 ### Algorithm:
