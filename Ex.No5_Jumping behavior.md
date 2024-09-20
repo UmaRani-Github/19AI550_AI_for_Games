@@ -1,7 +1,7 @@
 # Ex.No: 5  Implementation of Jumping behavior 
 ### DATE:                                                                            
-### REGISTER NUMBER : 212221240035
-### Name : Palamakula Deepika
+### REGISTER NUMBER : 212221240008
+### Name : Balireddy Mahalakshmi
 
 ### AIM: 
 To write a python program to simulate Jumbing behavior. 
